@@ -1,0 +1,468 @@
+@media (max-width:1280px) {
+    .btn-primary {
+        padding: 10px 20px;
+        font-size: 17px;
+    }
+    .primary-menu ul li a {
+        padding: 10px 12px;
+    }
+    .animation-btn {
+        bottom: 69px;
+        right: 136px;
+    }
+}
+@media (max-width:1200px) {
+    .about-image-text {
+        right: 12px;
+        bottom: -114px;
+    }
+    .call-left {
+        padding-top: 21px;
+    }
+    .call-left h2 {
+        font-size: 21px;
+    }
+    .call-right {
+        margin-top: 30px;
+    }
+    .call-right span {
+        width: 40px;
+        height: 40px;
+        font-size: 26px;
+        line-height: 40px;
+        margin-right: 20px;
+    }
+    .call-right a {
+        font-size: 25px;
+    }
+    .carousel-indicators {
+        left: 785px;
+    }
+    .footer-taitel h3 {
+        font-size: 20px;
+    }
+    .nav-item:last-child {
+        display: none;
+    }
+    .service-text-right ul li::before {
+        right: 391px;
+    }
+    .times-divition ul::before {
+        height: 77%;
+    }
+}
+
+@media (max-width:1190px) {
+    .btn-primary {
+        padding: 10px 17px;
+        font-size: 15px;
+    }
+    .primary-menu ul li a {
+        padding: 10px 9px;
+        font-size: 16px;
+    }
+    .loan-section-text {
+        width: 80%;
+    }
+    .animation-btn {
+        bottom: 51px;
+        right: 115px;
+    }
+    .about-image-text {
+        right: -5px;
+        bottom: -25px;
+    }
+
+}
+@media (max-width:1100px) {
+    .header-call-details a {
+        font-size: 14px;
+    }
+    .header-search span {
+        font-size: 15px;
+    }
+    .header-call-icon {
+        font-size: 22px;
+    }
+    .primary-menu ul li a {
+        padding: 10px 8px;
+        font-size: 15px;
+    }
+    .btn-primary {
+        padding: 10px 13px;
+        font-size: 12px;
+    }
+    body {
+        font-size: 14px;
+    }
+    .header-call-details a {
+        font-size: 12px;
+    }
+    .animation-btn {
+        bottom: 48px;
+        right: 113px;
+    }
+}
+@media (max-width:992px) {
+    .finix-text h2 {
+        font-size: 30px;
+        margin: 10px 0;
+    }
+    .finix-text p {
+        font-size: 15px;
+    }
+    .finix-text strong {
+        font-size: 17px;
+        margin: 3px 0;
+    }
+    .about-image-text {
+        bottom: -69px;
+        right: -10px;
+    }
+    .finix-text {
+        margin-bottom: 100px;
+    }
+    .finix-text h2 {
+        font-size: 22px;
+    }
+    .loan-text-left h2 {
+        font-size: 24px;
+    }
+    .items-text h3 {
+        font-size: 19px;
+    }
+    .worker-image {
+        margin-top: 163px;
+    }
+    .carousel-indicators {
+        left: 360px;
+    }
+    .team-member {
+        margin-bottom: 70px;
+    }
+    .small-div h3 a {
+        font-size: 15px;
+    }
+    .nav-item:nth-child(5) {
+        display: none;
+    }
+     .nav-item:nth-child(4) {
+        display: none;
+    }
+    .service-text-right ul li::before {
+        right: 611px;
+    }
+    .banner-content h1 {
+        font-size: 48px;
+    }
+    .primary-menu ul li ul {
+        left: 75px;
+    }
+    .call-left h2 {
+        border-right: none;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 33px;
+    }
+    .animation-btn {
+        bottom: 80px;
+        right: 250px;
+    }
+    .times-divition ul::before {
+        height: calc(100% - 115px);
+    }
+   
+}
+@media (max-width:991px) {
+    .button-div{
+        display: flex;
+    }
+    .button-div .header-search{
+        border: none;
+    }
+    .rakib {
+        display: none;
+    }
+    .button-div {
+        padding-left: 574px;
+    }
+}
+@media (max-width:979px) {
+    .button-div {
+        padding-left: 500px;
+    }
+}
+
+@media (max-width:904px) {
+    .button-div {
+        padding-left: 392px;
+    }
+}
+@media (max-width:800px) {
+    .button-div {
+        padding-left: 350px;
+    }
+}
+
+@media (max-width:768px) {
+    .banner-content h1 {
+        font-size: 45px;
+    }
+    .about-image-text {
+        bottom: -28px;
+        right: 0px;
+    }
+    .about-image {
+        margin-bottom: 90px;
+    }
+    .finix-text {
+        margin-bottom: 0px;
+    }
+    .loan-section-text {
+        width: 100%;
+    }
+    .loan-text-left {
+        margin-bottom: 100px;
+    }
+    .worker-image {
+        margin-top: 62px;
+    }
+    .finix-text {
+        margin-bottom: 50px;
+    }
+    .nav-item:nth-child(3) {
+        display: none;
+    }
+    .service-text-right ul li::before {
+        right: 434px;
+    }
+    .banner-content h1 {
+        font-size: 34px;
+    }
+    .small-image {
+        text-align: center;
+    }
+    .button-div {
+        padding-left: 280px;
+    }
+    .animation-btn {
+        bottom: 59px;
+        right: 123px;
+        line-height: 84px;
+    }
+}
+@media (max-width:690px) {
+    .button-div {
+        padding-left: 190px;
+    }
+}
+@media (max-width:600px) {
+    .header-search span {
+        display: none;
+    }
+    .button-div {
+        padding-left: 130px;
+    }
+}
+
+
+@media (max-width:576px) {
+    .col-lg-6.col-md-6.col-sm-6 {
+        margin-bottom: 20px;
+    }
+    .finix-text h2 {
+        font-size: 22px;
+    }
+    .banner-social ul li a {
+        padding: 10px 6px;
+        font-size: 18px;
+    }
+    .banner-content h1 {
+        font-size: 26px;
+    }
+    .button-div {
+        padding-left: 50px;
+    }
+    .animation-btn {
+        bottom: 29px;
+        right: 123px;
+        line-height: 74px;
+        height: 70px;
+        width: 70px;
+    }
+    .animation-btn::before {
+        height: 70px;
+        width: 70px;
+    }
+}
+@media (max-width:492px) {
+    img {
+        max-width: 90%;
+    }
+    .header-search {
+        width: 0px;
+    }
+}
+
+@media (max-width:460px) {
+    .carousel-indicators {
+        left: 300px;
+    }
+    .claient-content p {
+        font-size: 17px;
+    }
+    .service-text-right ul li::before {
+        right: 365px;
+    }
+    .button-div {
+        padding-left: 10px;
+    }
+
+}
+@media (max-width:422px) {
+    .nav-item:nth-child(2) {
+        display: none;
+    }
+    .service-text-right ul li::before {
+        right: 313px;
+    }
+    .button-div {
+        padding-left: 0px;
+    }
+
+} 
+
+
+@media (max-width:400px) {
+    .about-image-text {
+        bottom: 23px;
+        right: 38px;
+        height: 110px;
+        width: 110px;
+    }
+    .about-text-part p {
+        font-size: 12px;
+    }
+    .about-text-part h2 {
+        font-size: 20px;
+    }
+    .finix-text h2 {
+        font-size: 25px;
+    }
+    .finix-text h2 {
+        font-size: 16px;
+    }
+    .finix-text p {
+        font-size: 10px;
+    }
+    .call-right a {
+        font-size: 14px;
+    }
+    .call-right span {
+        width: 30px;
+        height: 30px;
+        font-size: 17px;
+        line-height: 30px;
+        margin-right: 10px;
+    }
+    .call-left {
+        padding-top: 0px;
+    }
+    .call-left h2 {
+        font-size: 15px;
+    }
+    .items-text h3 {
+        font-size: 16px;
+    }
+    .loan-text-left h2 {
+        font-size: 19px;
+    }
+    .times-divition ul li strong {
+        font-size: 21px;
+    }
+    .carousel-indicators {
+        left: 259px;
+    }
+    .service-text-right h3 {
+        font-size: 12px;
+    }
+    .service-text-right ul li::before {
+        right: 246px;
+    }
+    .banner-content h1 {
+        font-size: 17px;
+    }
+    .banner-content p {
+        font-size: 15px;
+    }
+    .banner-social ul li span::after {
+        right: -32px;
+    }
+    .banner-social ul li a {
+        padding: 10px 5px;
+        font-size: 16px;
+    }
+    .footer-contact-item a {
+        font-size: 13px;
+    }
+    body {
+        font-size: 12px;
+    }
+    .btn-primary {
+        padding: 9px 12px;
+        font-size: 10px;
+    }
+    .header-call-details a {
+        font-size: 9px;
+    }
+    .header-call-icon {
+        font-size: 16px;
+    }
+    .btn-primary {
+        padding: 6px 10px;
+        font-size: 9px;
+    }
+    .button-div {
+        width: 38%;
+    }
+    img {
+        max-width: 90%;
+    }
+    .navbar-brand {
+        width: 30%;
+    }
+    .animation-btn {
+        bottom: 28px;
+    }
+}
+@media (max-width:350px) {
+    .animation-btn {
+        bottom: 15px;
+        right: 97px;
+    }
+}
+
+@media (max-width:300px) {
+    .carousel-indicators {
+        left: 191px;
+        bottom: 55px;
+    }
+    .service-text-right ul li::before {
+        right: 190px;
+    }
+    .service-text-right ul li::before {
+        right: 187px;
+    }
+    .banner-social ul li span {
+        margin-right: 27px;
+        font-size: 15px;
+    }
+    .about-image-text {
+        bottom: -20px;
+        margin-right: -24px;
+    }
+    .animation-btn {
+        bottom: 3px;
+        right: 80px;
+    }
+ 
+}
